@@ -1,0 +1,6 @@
+classes= 3
+train  = /home/cooli7wa/project/pycharm/tiaotiao/img/train.txt
+valid  = /home/cooli7wa/project/pycharm/tiaotiao/img/test.txt
+names = data/tiao.names
+backup = /home/cooli7wa/project/yolo/darknet_pjreddie/backup
+
